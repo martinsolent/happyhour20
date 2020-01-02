@@ -44,7 +44,17 @@ https://www.linkedin.com/in/chris-sherry-ab091721/
 
 ### Contacted/sorted:
 
-**Student Panel** - Michael Ashfield YES - Konstantin Ruzhev YES - James Fuller YES - Michael Allen? - Magdalena Smoleń?
+**Student Panel**
+
+Michael Ashfield https://www.linkedin.com/in/michael-ashfield-261312151/ YES
+
+Konstantin Ruzhev https://www.linkedin.com/in/konstantinruzhev/ YES
+
+James Fuller https://www.linkedin.com/in/james-fuller-36318417/ YES
+
+Michael Allen?
+
+Magdalena Smoleń?
 
 Lee Mallon
 https://www.linkedin.com/in/leemallon/
@@ -65,7 +75,7 @@ Richard Coope
 https://www.linkedin.com/in/richardcoope/
 
 Neil White
-https://www.linkedin.com/in/neil-white-79783729/
+https://www.linkedin.com/in/neil-white-79783729/  ???
 
 Laura Yarrow
 https://www.linkedin.com/in/laura-yarrow/
