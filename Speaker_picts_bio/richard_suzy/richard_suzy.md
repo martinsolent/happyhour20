@@ -32,3 +32,7 @@ Stuff Richard's enjoys
 - Bringing talented teams together
 - Preparing for my next 4x4 road trip
 - Getting stuff done and moving forward faster.
+
+https://wearebrightful.com/
+
+Twitter: @richardcoope
