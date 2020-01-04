@@ -13,7 +13,7 @@
 | 4.   | 12/2/20  |[Richard Coope](https://www.linkedin.com/in/richardcoope/) & [Suzy Dierckx](https://www.linkedin.com/in/suzy-dierckx/)                                                        | YES/YES |YES/NO |
 | 5.   | 19/2/20  | **Student Panel** - Work Experience                                            | N/A     |N/A    |
 | 6.   | 26/2/20  | [Daniel Jones](https://www.linkedin.com/in/daniel-jones-52a61738/) & Sandra Ristova| YES/NO    |YES/   |
-| 7.   | 4/3/20   | [Laura Yarrow](https://www.linkedin.com/in/laura-yarrow/) & [Neil White](https://www.linkedin.com/in/neil-white-79783729/)                                                 | YES/NO  |       |
+| 7.   | 4/3/20   | [Laura Yarrow](https://www.linkedin.com/in/laura-yarrow/) & [Neil White](https://www.linkedin.com/in/neil-white-79783729/)                                                 | YES/NO  | YES/  |
 | 8.   | 11/3/20  | [Lee Mallon](https://www.linkedin.com/in/leemallon/)                           | YES/    | NO/   |
 | 9.   | 18/3/20  | [Alex Pate](https://www.linkedin.com/in/alexjpate/)                            | YES/    |       |
 | 10.  | 25/3/20  | Chris Sherry                                                                   | NO/     |       |
