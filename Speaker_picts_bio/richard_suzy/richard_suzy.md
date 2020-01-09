@@ -36,3 +36,17 @@ Stuff Richard's enjoys
 https://wearebrightful.com/
 
 Twitter: @richardcoope
+
+
+# Suzy Dierckx
+
+Social Media & Marketing Consultant [sociablesuzy.com](https://sociablesuzy.com/)
+
+![Suzy Dierckx](suzy.jpg)
+
+## The journey doesn't have to be a straight one, there's always bends and turns in the road.
+Once a paediatric nurse...
+Once a marketing director...
+But now Suzy is her own boss. Suzy runs SociableSuzy, her own social media marketing consultancy, Suzy takes her experience to clients by working flexibly around her family. What's her advice? Keep you eyes peeled, take opportunities with both hands and try something new!
+
+Twitter:[@SociableSuzy](https://twitter.com/SociableSuzy)
