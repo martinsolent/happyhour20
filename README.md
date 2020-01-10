@@ -17,7 +17,7 @@
 | 8.   | 11/3/20  | [Lee Mallon](https://www.linkedin.com/in/leemallon/)                           | YES/    | NO/   |
 | 9.   | 18/3/20  | [Alex Pate](https://www.linkedin.com/in/alexjpate/)                            | YES/    | YES/  |
 | 10.  | 25/3/20  | Chris Sherry                                                                   | NO/     |       |
-| 11.  | 1/4/20   | Phil Moore                                                                     | YES/    | NO/   |
+| 11.  | 1/4/20   | [Phil Moore](https://www.linkedin.com/in/philip-moore-22666540/)               | YES/    | NO/   |
 |      | 			    | Easter                                                                         |         |       |
 | 12.  | 22/4/20  | ?                                                                              |         |       |
 | 13.  | 29/4/20  | Don't book as last week of teaching/Assessment Deadlines                       |         |       | 
