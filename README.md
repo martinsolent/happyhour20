@@ -18,8 +18,8 @@
 | 9.   | 18/3/20  | [Alex Pate](https://www.linkedin.com/in/alexjpate/) & Sam?                     | YES/NO  | YES/  |
 | 10.  | 25/3/20  | Chris Sherry & Sam?                                                            | NO/NO   |       |
 | 11.  | 1/4/20   | [Phil Moore](https://www.linkedin.com/in/philip-moore-22666540/)               | YES/    | NO/   |
-|      | 			    | Easter                                                                         | NO/     |       |
-| 12.  | 22/4/20  | David Henderson?                                                               |         |       |
+|      | 			    | Easter                                                                         | .       |       |
+| 12.  | 22/4/20  | David Henderson?                                                               | NO/     |       |
 | 13.  | 29/4/20  | Don't book as last week of teaching/Assessment Deadlines                       |         |       | 
 
 ### To contact:
