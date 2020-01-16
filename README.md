@@ -15,11 +15,11 @@
 | 6.   | 26/2/20  | [Daniel Jones](https://www.linkedin.com/in/daniel-jones-52a61738/) & Sandra Ristova| YES/NO    |YES/   |
 | 7.   | 4/3/20   | [Laura Yarrow](https://www.linkedin.com/in/laura-yarrow/) & [Neil White](https://www.linkedin.com/in/neil-white-79783729/)                                                 | YES/NO  | YES/  |
 | 8.   | 11/3/20  | [Lee Mallon](https://www.linkedin.com/in/leemallon/)                           | YES/    | NO/   |
-| 9.   | 18/3/20  | [Alex Pate](https://www.linkedin.com/in/alexjpate/)                            | YES/    | YES/  |
-| 10.  | 25/3/20  | Chris Sherry                                                                   | NO/     |       |
+| 9.   | 18/3/20  | [Alex Pate](https://www.linkedin.com/in/alexjpate/) & Sam?                     | YES/NO  | YES/  |
+| 10.  | 25/3/20  | Chris Sherry & Sam?                                                            | NO/NO   |       |
 | 11.  | 1/4/20   | [Phil Moore](https://www.linkedin.com/in/philip-moore-22666540/)               | YES/    | NO/   |
-|      | 			    | Easter                                                                         |         |       |
-| 12.  | 22/4/20  | ?                                                                              |         |       |
+|      | 			    | Easter                                                                         | .       |       |
+| 12.  | 22/4/20  | David Henderson?                                                               | NO/     |       |
 | 13.  | 29/4/20  | Don't book as last week of teaching/Assessment Deadlines                       |         |       | 
 
 ### To contact:
