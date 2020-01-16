@@ -16,7 +16,7 @@
 | 7.   | 4/3/20   | [Laura Yarrow](https://www.linkedin.com/in/laura-yarrow/) & Neil White?        | YES/NO  | YES/  |
 | 8.   | 11/3/20  | [Lee Mallon](https://www.linkedin.com/in/leemallon/)                           | YES/    | NO/   |
 | 9.   | 18/3/20  | [Alex Pate](https://www.linkedin.com/in/alexjpate/) & Sam?                     | YES/NO  | YES/  |
-| 10.  | 25/3/20  | Chris Sherry & Sam?                                                            | NO/NO   |       |
+| 10.  | 25/3/20  | Chris Sherry?                                                                  | NO/NO   |       |
 | 11.  | 1/4/20   | [Phil Moore](https://www.linkedin.com/in/philip-moore-22666540/)               | YES/    | NO/   |
 |      | 			    | Easter                                                                         |         |       |
 | 12.  | 22/4/20  | [David Henderson](https://www.linkedin.com/in/dhendo/)                         | YES/    |YES/   |
