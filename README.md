@@ -16,13 +16,13 @@
 | 7.   | 4/3/20   | [Laura Yarrow](https://www.linkedin.com/in/laura-yarrow/) & Neil White?        | YES/NO  | YES/  |
 | 8.   | 11/3/20  | [Lee Mallon](https://www.linkedin.com/in/leemallon/)                           | YES/    | NO/   |
 | 9.   | 18/3/20  | [Alex Pate](https://www.linkedin.com/in/alexjpate/) & Sam?                     | YES/NO  | YES/  |
-| 10.  | 25/3/20  | Chris Sherry?                                                                  | NO/NO   |       |
+| 10.  | 25/3/20  | [Chris Sherry](https://www.linkedin.com/in/chris-sherry-ab091721/)             | YES/NO  | NO/   |
 | 11.  | 1/4/20   | [Phil Moore](https://www.linkedin.com/in/philip-moore-22666540/)               | YES/    | NO/   |
 |      | 			    | Easter                                                                         |         |       |
 | 12.  | 22/4/20  | [David Henderson](https://www.linkedin.com/in/dhendo/)                         | YES/    |YES/   |
 | 13.  | 29/4/20  | Don't book as last week of teaching/Assessment Deadlines                       |         |       | 
 
-### To contact:
+### Contacted waiting response:
 
 Sandra Ristova
 https://www.linkedin.com/in/sandra-ristova/
@@ -33,13 +33,9 @@ https://www.linkedin.com/in/kylesharland/
 Jacob Tongue
 https://www.linkedin.com/in/jacob-tongue-76b223108/
 
-Chris Sherry
-https://www.linkedin.com/in/chris-sherry-ab091721/
-
 Neil White
 https://www.linkedin.com/in/neil-white-79783729/ 
 
-### Contacted/sorted:
 
 **Student Panel**
 
@@ -52,30 +48,4 @@ James Fuller https://www.linkedin.com/in/james-fuller-36318417/ YES
 Michael Allen https://www.linkedin.com/in/mike-allen-a4801a140/ YES
 
 Magdalena Smoleń https://www.linkedin.com/in/magdalena-smolen/ YES
-
-**External Speakers**
-
-David Henderson
-https://www.linkedin.com/in/dhendo/
-
-Lee Mallon
-https://www.linkedin.com/in/leemallon/
-
-Alex Pate
-https://www.linkedin.com/in/alexjpate/
-
-Daniel Jones
-https://www.linkedin.com/in/daniel-jones-52a61738/
-
-Robbie Rice
-https://www.linkedin.com/in/robertjonrice/
-
-Suzy Dierckx
-www.sociablesuzy.com
-
-Richard Coope
-https://www.linkedin.com/in/richardcoope/
-
-Laura Yarrow
-https://www.linkedin.com/in/laura-yarrow/
 
