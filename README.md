@@ -14,7 +14,7 @@
 | 5.   | 19/2/20  | **Student Panel** - Work Experience                                            | YES     |YES    |
 | 6.   | 26/2/20  | [Daniel Jones](https://www.linkedin.com/in/daniel-jones-52a61738/) & ?        | YES/NO    |YES/   |
 | 7.   | 4/3/20   | [Laura Yarrow](https://www.linkedin.com/in/laura-yarrow/) & ??                | YES/NO  | YES/  |
-| 8.   | 11/3/20  | [Lee Mallon](https://www.linkedin.com/in/leemallon/)                           | YES/    | NO/   |
+| 8.   | 11/3/20  | [Lee Mallon](https://www.linkedin.com/in/leemallon/) & [Tim Drake] (https://www.linkedin.com/in/mrtimdrake/)                                                          | YES/    | NO/   |
 | 9.   | 18/3/20  | [Alex Pate](https://www.linkedin.com/in/alexjpate/) & ??                      | YES/NO  | YES/  |
 | 10.  | 25/3/20  | [Chris Sherry](https://www.linkedin.com/in/chris-sherry-ab091721/) & ??       | YES/NO  | NO/   |
 | 11.  | 1/4/20   | [Phil Moore](https://www.linkedin.com/in/philip-moore-22666540/) & ??         | YES/    | NO/   |
