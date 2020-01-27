@@ -9,10 +9,10 @@
 |:----:|:---------|:-------------------------------------------------------------------------------|:--------|:------|
 | 1.   | 22/1/20  | Dootrix (Live Brief Class students only)                                       | YES     | N/A   |
 | 2.   | 29/1/20  |[3 Sided](https://3sidedcube.com/)                                              | YES     | YES   |
-| 3.   | 5/2/20   |[Robbie Rice](https://www.linkedin.com/in/robertjonrice/)                       | YES     | YES   |
+| 3.   | 5/2/20   |[Robbie Rice](https://www.linkedin.com/in/robertjonrice/) & Chris Key?          | YES/NO  | YES   |
 | 4.   | 12/2/20  |[Richard Coope](https://www.linkedin.com/in/richardcoope/) & [Suzy Dierckx](https://www.linkedin.com/in/suzy-dierckx/)                                                        | YES/YES |YES/YES|
 | 5.   | 19/2/20  | **Student Panel** - Work Experience                                            | YES     |YES    |
-| 6.   | 26/2/20  | [Daniel Jones](https://www.linkedin.com/in/daniel-jones-52a61738/) & ?        | YES/NO    |YES/   |
+| 6.   | 26/2/20  | [Daniel Jones](https://www.linkedin.com/in/daniel-jones-52a61738/) & Chris Key | YES/NO    |YES/   |
 | 7.   | 4/3/20   | [Laura Yarrow](https://www.linkedin.com/in/laura-yarrow/) & ??                | YES/NO  | YES/  |
 | 8.   | 11/3/20  | [Lee Mallon](https://www.linkedin.com/in/leemallon/) & [Tim Drake](https://www.linkedin.com/in/mrtimdrake/)                                                          | YES/YES | NO/NO   |
 | 9.   | 18/3/20  | [Alex Pate](https://www.linkedin.com/in/alexjpate/) & ??                      | YES/NO  | YES/  |
@@ -24,6 +24,10 @@
 
 ### Contacted waiting response:
 
+Chris Key
+https://www.linkedin.com/in/cdckey/
+
+**Long time no response**
 Sandra Ristova
 https://www.linkedin.com/in/sandra-ristova/
 
