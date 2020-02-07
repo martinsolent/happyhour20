@@ -17,7 +17,7 @@
 | 8.   | 11/3/20  | [Lee Mallon](https://www.linkedin.com/in/leemallon/) & [Tim Drake](https://www.linkedin.com/in/mrtimdrake/)                                                          | YES/YES | NO/NO   |
 | 9.   | 18/3/20  | [Alex Pate](https://www.linkedin.com/in/alexjpate/) & ??                      | YES/  | YES/  |
 | 10.  | 25/3/20  | [Chris Sherry](https://www.linkedin.com/in/chris-sherry-ab091721/) & ??       | YES/  | YES/   |
-| 11.  | 1/4/20   | [Phil Moore](https://www.linkedin.com/in/philip-moore-22666540/) & Rika         | YES/No    | NO/   |
+| 11.  | 1/4/20   | [Phil Moore](https://www.linkedin.com/in/philip-moore-22666540/) & [James beeson](https://www.linkedin.com/in/jamesabeeson/) & [Kristina Angelova](https://www.linkedin.com/in/kangelova/) of [Rika](https://rika.digital/)         | YES/YE    | NO/YES   |
 |      | 			    | Easter                                                                         |         |       |
 | 12.  | 22/4/20  | [David Henderson](https://www.linkedin.com/in/dhendo/)                         | YES/    |YES/   |
 | 13.  | 29/4/20  | Don't book as last week of teaching/Assessment Deadlines                       |         |       | 
