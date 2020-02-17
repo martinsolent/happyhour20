@@ -22,13 +22,5 @@
 | 12.  | 22/4/20  | [David Henderson](https://www.linkedin.com/in/dhendo/)                         | YES/    |YES/   |
 | 13.  | 29/4/20  | Don't book as last week of teaching/Assessment Deadlines                       |         |       | 
 
-### Contacted waiting response:
 
-
-
-
-
-**Student Panel**
-
-[Michael Ashfield](https://www.linkedin.com/in/michael-ashfield-261312151) - [Konstantin Ruzhev](https://www.linkedin.com/in/konstantinruzhev) - [James Fuller](https://www.linkedin.com/in/james-fuller-36318417) -[Michael Allen](https://www.linkedin.com/in/mike-allen-a4801a140) - [Magdalena Smoleń](https://www.linkedin.com/in/magdalena-smolen)
 
