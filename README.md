@@ -16,7 +16,7 @@
 | 7.   | 4/3/20   | [Laura Yarrow](https://www.linkedin.com/in/laura-yarrow/) & ??                | YES/  | YES/  |
 | 8.   | 11/3/20  | [Lee Mallon](https://www.linkedin.com/in/leemallon/) & [Tim Drake](https://www.linkedin.com/in/mrtimdrake/)                                                          | YES/YES | YES/YES   |
 | 9.   | 18/3/20  | [Alex Pate](https://www.linkedin.com/in/alexjpate/) & [Annelies James](https://www.linkedin.com/in/anneliesjames/)          | YES/YES  | YES/  |
-| 10.  | 25/3/20  | [Chris Sherry](https://www.linkedin.com/in/chris-sherry-ab091721/) & ??       | YES/  | YES/   |
+| 10.  | 25/3/20  | [Chris Sherry](https://www.linkedin.com/in/chris-sherry-ab091721/) & [Katarzyna Wlodarczyk](https://www.linkedin.com/in/katwlodarczyk/)       | YES/YES  | YES/   |
 | 11.  | 1/4/20   | [Phil Moore](https://www.linkedin.com/in/philip-moore-22666540/) & [James beeson](https://www.linkedin.com/in/jamesabeeson/) & [Kristina Angelova](https://www.linkedin.com/in/kangelova/) of [Rika](https://rika.digital/)         | YES/YES    | NO/YES   |
 |      | 			    | Easter                                                                         |         |       |
 | 12.  | 22/4/20  | [David Henderson](https://www.linkedin.com/in/dhendo/)                         | YES/    |YES/   |
